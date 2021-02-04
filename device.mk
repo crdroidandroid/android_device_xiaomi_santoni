@@ -396,7 +396,8 @@ PRODUCT_PACKAGES += \
     init.baseband.sh \
     init.goodix.sh \
     init.qcom.early_boot.sh \
-    init.qcom.post_boot.sh
+    init.qcom.post_boot.sh \
+    init.qcom.sensors.sh
 
 # RenderScript HAL
 PRODUCT_PACKAGES += \
