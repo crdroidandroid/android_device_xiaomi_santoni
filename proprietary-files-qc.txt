@@ -660,13 +660,6 @@ vendor/lib64/sensors.ssc.so|1c45bd3c2223dcd05373d5a75b88e8ea79dc3156
 
 # Thermal - from from olive-user 10 QKQ1.191014.001 V11.0.1.0.QCNCNXM release-keys
 vendor/bin/thermal-engine|633b9cff05ba176a18101bdfc03ecacc98e1e0f0
-vendor/etc/thermal-engine.conf|c6c9312b7c7b52926cf7d0fc9bff933d90967100
-vendor/etc/thermal-engine-camera.conf|e2c04ccb19a5697b8c9c1ce6c6c1663196370d63
-vendor/etc/thermal-engine-map.conf|952fa325f760f821b7a3fe64ca0222fbcea68326
-vendor/etc/thermal-engine-sgame.conf|6214b60612d84ed90b3d53e9953c484bf30e630f
-vendor/etc/thermal-engine-high.conf|6161e379382af8a7240bd79438d48de2a1375a78
-vendor/etc/thermal-engine-nolimits.conf|a0a655ad11b9f2a883febfd5a8b3e655a10924e4
-vendor/etc/thermal-engine-normal.conf|963a64e8e5609aaa5c1a843b18274a7f3ee733fe
 -vendor/lib/libthermalclient.so|8837ba9f8f43d4cfbec00d8055fef4c9a7434931
 -vendor/lib64/libthermalclient.so|148421212c4b2d3bcb37cb08f9542d3286f008c1
 vendor/lib64/libthermalfeature.so|1c408911610e5b6a11853aff1900860f9e9a861f
