@@ -415,8 +415,10 @@ vendor/lib64/libswvdec.so|2637b1a081e69d2a8efb5d65980d6fe840578b31
 vendor/lib64/libvpplibrary.so|ca9c4ef1a3036205a593a641ec96b90a73fef39e
 
 # Perf - from LA.UM.8.6.2.r1-08600-89xx.0
+lib/libqti-at.so|28ca0798553093652a85acfccf81e5aa70819850
 lib/libqti-perfd-client_system.so|6061ece92e6fac3fb826727d87415f2eeb4fb930
 lib/libqti_performance.so|e8aa933eddaff2f03e9237d8feb4c39ad513f5be
+lib64/libqti-at.so|44af3718027bcda96262666e6d7cf15ec72511fc
 lib64/libqti-perfd-client_system.so|4a7c8b57349c178b0cef6c13e638fddbb7edbee4
 lib64/libqti_performance.so|effa5f073fd27495c6ab91769609c9b152dc9141
 product/lib/vendor.qti.hardware.perf@1.0.so|14433f3baf7e760208f3e6ebbcb5583c5cfbf91c
